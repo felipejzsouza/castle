@@ -1,0 +1,12 @@
+D:\projetos\IoC\castle-windsor\IoC\bin\Debug\IoC.exe.config
+D:\projetos\IoC\castle-windsor\IoC\bin\Debug\IoC.exe
+D:\projetos\IoC\castle-windsor\IoC\bin\Debug\IoC.pdb
+D:\projetos\IoC\castle-windsor\IoC\bin\Debug\Castle.Core.dll
+D:\projetos\IoC\castle-windsor\IoC\bin\Debug\Castle.Windsor.dll
+D:\projetos\IoC\castle-windsor\IoC\bin\Debug\Castle.Core.xml
+D:\projetos\IoC\castle-windsor\IoC\bin\Debug\Castle.Windsor.xml
+D:\projetos\IoC\castle-windsor\IoC\obj\Debug\IoC.csprojAssemblyReference.cache
+D:\projetos\IoC\castle-windsor\IoC\obj\Debug\IoC.csproj.CoreCompileInputs.cache
+D:\projetos\IoC\castle-windsor\IoC\obj\Debug\IoC.csproj.CopyComplete
+D:\projetos\IoC\castle-windsor\IoC\obj\Debug\IoC.exe
+D:\projetos\IoC\castle-windsor\IoC\obj\Debug\IoC.pdb
